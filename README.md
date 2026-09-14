@@ -1,3 +1,4 @@
+[← Volver al inicio](README.md)
 # TDA Lab de [Guillermo Lojo]
 
 **[2ºbach] · Curso 2026-2027**
