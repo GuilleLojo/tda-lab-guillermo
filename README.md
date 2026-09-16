@@ -24,4 +24,4 @@
 
 ## Trucos que me apunto
 
-- [Cuando descubras algo que no te enseñó nadie, apúntalo aquí.]
+- [No tengo ninguno]
