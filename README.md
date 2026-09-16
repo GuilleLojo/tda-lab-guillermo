@@ -1,9 +1,9 @@
 [← Volver al inicio](README.md)
-# TDA Lab de [Guillermo Lojo]
+# TDA Lab de Guillermo Lojo
 
 **[2ºbach] · Curso 2026-2027**
 
-[Aqui voy a ir contando como creo este trabajo sobre la web»]
+Aqui voy a ir contando como creo este trabajo sobre la web»
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## Herramientas que he usado
 
-`[ve añadiendo aquí las que uses: Packet Tracer, Python, Streamlit...]`
+- todavia no he usado ninguna
 
 ## Trucos que me apunto
 
-- [No tengo ninguno]
+- No tengo ninguno
