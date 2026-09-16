@@ -1,15 +1,17 @@
 # Temas del curso
+[← Volver al inicio](README.md)
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 16/09 Guillermo Lojo
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+### Mis aficiones
+## Fútbol
 
-```
-### Título del tema — fecha
+Llevo jugando al futbol desde los tres años en el equipo del pueblo,
+dependiendo de los partidos planteamos una alineación diferente
+en funcion de las ventajas y las desventajas del rival.
+Hay veces que la jugada nos sale bien y ganamos el partido,
+luego nos vamos juntos a celebrar
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+Buscando el Github he encontrado esto:
+
+
