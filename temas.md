@@ -13,5 +13,6 @@ Hay veces que la jugada nos sale bien y ganamos el partido,
 luego nos vamos juntos a celebrar
 
 Buscando el Github he encontrado esto:
-![Mi red](capturas/red.png)
+<img width="730" height="432" alt="image" src="https://github.com/user-attachments/assets/df564feb-f7fd-40ca-b557-777832fc07e0" />
+
 
