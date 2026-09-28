@@ -1,11 +1,12 @@
-[← Volver al inicio](README.md)
+
 # TDA Lab de Guillermo Lojo
 
 **[2ºbach] · Curso 2026-2027**
 
+[← Volver al inicio](README.md)
+---
 Aqui voy a ir contando como creo este trabajo sobre la web»
 
----
 
 ## Índice
 
@@ -20,7 +21,7 @@ Aqui voy a ir contando como creo este trabajo sobre la web»
 
 ## Herramientas que he usado
 
-- todavia no he usado ninguna
+- Github
 
 ## Trucos que me apunto
 
