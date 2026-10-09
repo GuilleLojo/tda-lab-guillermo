@@ -3,7 +3,6 @@
 
 **[2ºbach] · Curso 2026-2027**
 
-[← Volver al inicio](README.md)
 ---
 Aqui voy a ir contando como creo este trabajo sobre la web»
 
