@@ -29,3 +29,20 @@ la educacion, enseñenza y la salud  en los niños mas necesitados
 
 Imagen:Кирилл Венедиктов,[Wikipedia commons] (https://commons.wikimedia.org/wiki/File:Messi_vs_Nigeria_2018.jpg) 
 <img width="960" height="940" alt="image" src="https://github.com/user-attachments/assets/236016f7-ee1d-474c-8971-e6422c003a26" />
+
+---
+
+
+
+
+### 13/10 · Ada Lovelace
+
+Ada Lovelace fue una matemática y escritora británica considerada una de las pioneras de la informática. Se la conoce como la primera programadora de la historia, porque escribió un algoritmo pensado para que una máquina lo ejecutara, mucho antes de que existieran los ordenadores modernos, su día se celebra el 13 de octubre. 
+Nació en Londres el 10 de diciembre de 1815. Su nombre completo era Augusta Ada King, condesa de Lovelace.
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
+![Retrato de Ada ](capturas/ada.jpg){: width="300"} <img width="697" height="999" alt="image" src="https://github.com/user-attachments/assets/e63feddd-371b-48fb-95c9-de86b9018e75" />
+
+ [Alfred Edward Chalon (1780–1860]
+
+---****
