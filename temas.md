@@ -41,8 +41,8 @@ Ada Lovelace fue una matemática y escritora británica considerada una de las p
 Nació en Londres el 10 de diciembre de 1815. Su nombre completo era Augusta Ada King, condesa de Lovelace.
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![Retrato de Ada ](capturas/ada.jpg){: width="300"} <img width="697" height="999" alt="image" src="https://github.com/user-attachments/assets/e63feddd-371b-48fb-95c9-de86b9018e75" />
+ <img width="697" height="999" alt="image" src="https://github.com/user-attachments/assets/e63feddd-371b-48fb-95c9-de86b9018e75" />
 
- [Alfred Edward Chalon (1780–1860]
+ *[Alfred Edward Chalon (1780–1860]*
 
----****
+---
