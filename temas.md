@@ -26,3 +26,4 @@ la educacion, enseñenza y la salud  en los niños mas necesitados
 
 
 Imagen:Кирилл Венедиктов,[Wikipedia commons] (https://commons.wikimedia.org/wiki/File:Messi_vs_Nigeria_2018.jpg) 
+<img width="960" height="940" alt="image" src="https://github.com/user-attachments/assets/236016f7-ee1d-474c-8971-e6422c003a26" />
